@@ -6,7 +6,7 @@ I'm from Brazil's, 15 year old developer, and I "specialize" in node.js
 
 🇧🇷 - Portuguese (Native Language)<br>
 🇬🇧 - English (I can talk, at least)<br>
-🇪🇸 - Spanish (Not that good, a little bit)
+🇪🇸 - Spanish (Not that good, a little bit)<br>
 🇰🇵 - 번역? 한국어를 말하는 방법을 모르겠습니다
 
 ## Projects
